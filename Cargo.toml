@@ -1,5 +1,5 @@
 [package]
-name = "client"
+name = "playground-playground"
 version = "0.1.0"
 authors = ["katayama800 <tattu.0310@gmail.com>"]
 edition = "2021"
