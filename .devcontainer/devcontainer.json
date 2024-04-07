@@ -2,7 +2,7 @@
   "dockerComposeFile": [
     "compose.yml"
   ],
-  "service": "playground-playground",
+  "service": "playground-hub",
   "workspaceFolder": "/workspace",
   "customizations": {
     "vscode": {
