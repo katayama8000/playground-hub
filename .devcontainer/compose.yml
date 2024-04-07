@@ -1,5 +1,5 @@
 services:
-  playground-playground:
+  playground-hub:
     build:
       context: .
       dockerfile: Dockerfile
